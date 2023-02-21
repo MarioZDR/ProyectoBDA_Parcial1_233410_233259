@@ -19,7 +19,7 @@ import interfaces.ITransaccionesDAO;
 
 /**
  *
- * @author Gabriel Mancinas
+ * @author 00000233259_2333410
  */
 public class Principal {
 
